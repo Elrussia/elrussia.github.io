@@ -1,0 +1,86 @@
+#gallery {
+	text-align: left;
+	clear: both;
+	}
+.galleryThumbs {
+	}
+.galleryPic {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	text-align: -moz-center;
+	}
+#galleryPic IMG, .galleryPic IMG {
+	display: block;
+	}
+.galleryThumb TABLE {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 0;
+	}
+.galleryThumb TD {
+	vertical-align: middle;
+	text-align: center;
+	text-align: -moz-center;
+	padding: 0;
+	border: 0;
+	}
+.galleryThumb A, .galleryThumb SPAN, .galleryThumb IMG {
+	display: block;
+	}
+.galleryThumb {
+	text-align: center;
+	text-align: -moz-center;
+	background-color: #CDCDCD;
+	padding: 8px;
+	}
+#galleryPic {
+  float: left;
+	margin: 0 10px 10px 0;
+	width: 500px;
+	border: 1px solid #cacaca;
+	text-align: center;
+	text-align: -moz-center;
+	}
+#galleryPicNavi #prev, #galleryPicNavi #next {
+	display: block;
+	margin-bottom: 12px;
+	font-size: 9px;
+	background-image: url("nopic.gif");
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 75px;
+	height: 75px;
+	text-align: center;
+	text-align: -moz-center;
+	text-decoration: none;
+	overflow: hidden;
+	border: 1px solid #cacaca;
+	background: url("nopic.gif") no-repeat center center; 
+	float: left;
+	}
+#galleryPicNavi #next {
+	clear: right;
+	margin-left: 8px;
+	}
+#galleryPicNavi A#prev:hover,
+#galleryPicNavi A#next:hover {
+	border: 1px solid #de3418;
+	}
+#galleryPicAbstract {
+	margin-top: 0;
+	}
+.picList {
+  margin: 0;
+  padding: 0;
+	}
+.picList LI {
+	list-style-type: none;
+  padding: 0;
+  margin: 0 0 10px 0;
+	clear: both;
+	}
+.gallery_picture_t #comments {
+	clear: both;
+	}

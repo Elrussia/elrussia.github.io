@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [
+	<!ENTITY % HTMLlat1 PUBLIC
+  	"-//W3C//ENTITIES Latin 1 for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">
+	%HTMLlat1;
+
+	<!ENTITY % HTMLspecial PUBLIC
+  	"-//W3C//ENTITIES Special for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent">
+	%HTMLspecial;
+	
+	<!ENTITY % HTMLsymbol PUBLIC
+  	"-//W3C//ENTITIES Symbols for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent">
+	%HTMLsymbol;
+]>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>Электронная Россия</title>
+	<description>Материалы по ФЦП &quot;Электронная Россия&quot;, какой она была до лета 2006г.</description>
+	<language>ru</language>
+	<link>http://elrussia.ru</link> 
+	<copyright>Copyright 2020 Электронная Россия</copyright>
+	
+		<managingEditor>ailev@asmp.msk.su</managingEditor>
+	
+		<managingEditor>iaeg@yandex.ru</managingEditor>
+	
+		<managingEditor>mb@e-centr.ru</managingEditor>
+	
+		<managingEditor>shayturova@mail.ru</managingEditor>
+	
+		<managingEditor>samadhi@mailgate.ru</managingEditor>
+	
+	
+	<pubDate/>
+	<lastBuildDate/>
+	
+	
+		<item>  
+			<title>Файл "Концепция управления государственными программами"</title>
+			<link>http://elrussia.ru/72101</link>
+			
+				<description>Версия 0.5 Реформы обычно выполняются государством как целевые программы. Показано, как должно быть устроено современное управление программами реформирования, приведены теоретические основания подхода, набор необходимых позиционных ролей, отличия управления программами в частном секторе от управления государственными программами.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>72101</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Концепция интеграции административной реформы и ФЦП &quot;Электронная Россия&quot;"</title>
+			<link>http://elrussia.ru/manifest</link>
+			
+				<description>Версия 1.1. Показывается роль и место работ &quot;Электронной России&quot; в деле осуществления административной реформы. Первая версия (с незначительными изменениями) была направлена 14 июля 2006г. программным офисом МЭРиТ по ФЦП &quot;Электронная Россия&quot; руководству Минэкономразвития. Версия 1.1 была получена путем учета замечаний к первой версии (включая замечания, высказанные участниками Круглого стола по этой теме, проведенного МЭРиТ 21 июля 2006г.).</description>
+			
+			
+			
+			<pubDate/>
+			<guid>manifest</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Концепция регулирования государственного учёта вер. 2.0 в формате OpenOffice"</title>
+			<link>http://elrussia.ru/67190</link>
+			
+				<description>Конвертация форматов выполнена программным средством OpenOffice ver. 1.4.4. Авторы концепции не несут ответственности за идентичность содержания версий .doc и .sxw. Предложенное авторами содержание находится в файле .doc.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>67190</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Концепция регулирования государственного учёта вер. 2.0"</title>
+			<link>http://elrussia.ru/66836</link>
+			
+				<description>Новая версия &quot;Концепции государственного учёта&quot;, сформированная по итогам замечаний, обсуждений и опыта имплементации в первом полугодии 2006 г.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>66836</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "XML-схемы представления полной модели (вариант от 11 июня 2006г.)"</title>
+			<link>http://elrussia.ru/65644</link>
+			
+				<description>XML-схемы ГОС-Мастера: a) проверенные (validated by Altova XMLSpy) схемы для: классификаторов (Sch_vc01.xml); проекций (Sch_vр01.xml); объединенная (Beg_Sch_v01.xml); б) соответствующие диаграммы: классификаторов (Sch_vc01.png); проекций (Sch_vр01.png); объединенная (Beg_Sch_v01.png). в) Dublin Core  - DC properties.png Объединенную схему за имеющееся время оказалось проще (возможнее) построить, чем навести между ними мосты (import и/или include). Отдельные схемы прилагаются в силу несколько большей обозримости. Все они содержат необязательные комментарии, которые в окончательном варианте можно удалить. Dublin Core  также для лучшей обозримости в отдельном файле.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>65644</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Исходные коды ГосМастера"</title>
+			<link>http://elrussia.ru/65643</link>
+			
+				<description>Исходные коды ГосМастера (с инструкцией по компиляции).</description>
+			
+			
+			
+			<pubDate/>
+			<guid>65643</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Доклад о совершенствовании государственного управления на основе использования информационно-коммуникационных технологий"</title>
+			<link>http://elrussia.ru/elrussiareprort</link>
+			
+				<description>Проект, подготовлен Минэкономразвития России в рамках реализации ФЦП &quot;Электронная Россия (2002-2010)&quot; для рассмотрения на Правительстве и Комиссии по адмреформе. ВВЕДЕНИЕ         ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ КАК ИНСТРУМЕНТ РЕАЛИЗАЦИИ АДМИНИСТРАТИВНОЙ РЕФОРМЫ АДМИНИСТРАТИВНОЕ МОДЕЛИРОВАНИЕ МЕХАНИЗМЫ РАБОТЫ С ГОСУДАРСТВЕННОЙ ИНФОРМАЦИЕЙ Электронный государственный учет Раскрытие государственной информации Аудит государственных информационных систем &laquo;ИНФРАСТРУКТУРА ДОВЕРИЯ&raquo; ТЕХНОЛОГИЧЕСКИЕ ОСНОВЫ ИНФОРМАТИЗАЦИИ ОРГАНОВ ГОСУДАРСТВЕННОЙ ВЛАСТИ ВЫВОДЫ И ПРЕДЛОЖЕНИЯ</description>
+			
+			
+			
+			<pubDate/>
+			<guid>elrussiareprort</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Чеклист по Концепции учета, версия 0.31"</title>
+			<link>http://elrussia.ru/63547</link>
+			
+				<description>Вопросы, которые могут задаваться по пилотным проектам на заседаниях Проектной группы по информационным механизмам.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>63547</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Софт &quot;ГосМастер&quot;"</title>
+			<link>http://elrussia.ru/62148</link>
+			
+				<description>Версия 3.7.246.1236 -- с хелпом и почти правильным текстом лицензии.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>62148</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Концепция стандартизации программного обеспечения"</title>
+			<link>http://elrussia.ru/61381</link>
+			
+				<description>Концепция стандартизации программного обеспечения.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>61381</guid>
+		</item>
+	  
+</channel>
+</rss>
+
+
+
